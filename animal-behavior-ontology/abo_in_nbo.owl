@@ -302,6 +302,7 @@ Declaration(Class(<http://purl.obolibrary.org/obo/NBO_0020289>))
 Declaration(Class(<http://purl.obolibrary.org/obo/NBO_0020290>))
 Declaration(Class(owl:Thing))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000115>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/creation_date>))
 Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/hasAlternativeId>))
 ############################
 #   Annotation Properties
@@ -340,7 +341,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020002> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020003> (Thermoregulation behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020003> "Behaviors that facilitate maintenance of optimal body temperatures."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020003> "Behavior that facilitates maintenance of optimal body temperatures. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020003> "Thermoregulation_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020003> "Thermoregulation behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020003> <http://purl.obolibrary.org/obo/NBO_0020021>)
@@ -424,7 +425,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020014> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020015> (Warn other prey)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020015> "Postures or signals that alert other animals to presence or approach of a predator."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020015> "Postures or signals that alert other animals to presence or approach of a predator. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020015> "Warn_other_prey"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020015> "Warn other prey"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020015> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -468,7 +469,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020020> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020021> (Maintenance)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020021> "Behaviors designed to maintain current condition or promote internally stimulated shifts between conditions"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020021> "Behaviors designed to maintain current condition or promote internally stimulated shifts between conditions. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020021> "Maintenance"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020021> "Maintenance"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020021> <http://purl.obolibrary.org/obo/NBO_0020035>)
@@ -538,7 +539,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020030> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020031> (Bluff)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020031> "Threat that will not be acted upon."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020031> "Behavior, typically threat behavior in a situation likely to lead to combat, that overrepresents the combat ability or intentions of the actor. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020031> "Bluff"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020031> "Bluff"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020031> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -580,7 +581,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020036> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020037> (Vigilance)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020037> "Surveillance for presence or approach of predators"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020037> "Surveillance for presence or approach of predators. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020037> "Vigilance"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020037> "Vigilance"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020037> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -734,7 +735,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020058> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020059> (Occupy refuge)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020059> "Currently reside in constructed or existing structure that provides reduced predator and/or environmental risk"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020059> "Behavior associated with taking a position in a constructed or existing structure that provides reduced predator and or environmental risk. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020059> "Occupy_refuge"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020059> "Occupy refuge"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020059> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -790,7 +791,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020066> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020067> (Threaten predator)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020067> "Behavior that signifies hostility and potential physical confrontation as defence against predator."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020067> "Behavior directed at a predator that signifies hostility and predicts an increased probability of attack. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020067> "Threaten_predator"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020067> "Threaten predator"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020067> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -860,7 +861,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020076> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020077> (Display condition to predator)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020077> "Performance of behaviors that demonstrate physical condition of performer to a detected predator"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020077> "Performance of behaviors that demonstrate physical condition of performer to a detected predator. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020077> "Display_condition_to_predator"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020077> "Display condition to predator"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020077> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -874,7 +875,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020078> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020079> (Jamming)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020079> "Emission of signals in such a way as to prevent effective use of signals emitted by other parties"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020079> "Emission of signals in such a way as to prevent effective use of signals emitted by other parties. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020079> "Jamming"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020079> "Jamming"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020079> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1056,7 +1057,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020104> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020105> (Create refuge)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020105> "Construction of a structure in which builder can benefit from reduced predation risk and/or environmental stress."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020105> "Behavior associated with construction of a structure or shelter in which actor can benefit from reduced predation risk and or environmental stress. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020105> "Create_refuge"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020105> "Create refuge"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020105> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1293,7 +1294,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020138> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020139> (Enhance crypsis)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020139> "Behaviors that reduce detectability of performer against background"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020139> "Behavior that reduces detectability of performer against background. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020139> "Enhance_crypsis"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020139> "Enhance crypsis"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020139> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1363,7 +1364,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020148> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020149> (Distress signalling)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020149> "Signals emitted by an animal trapped or captured by a presumed predator"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020149> "Signal emitted by an animal trapped or captured by a presumed predator. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020149> "Distress_signalling"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020149> "Distress signalling"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020149> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1433,7 +1434,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020158> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020159> (Cooling)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020159> "Behaviors that serve to reduce body temperature as by moving to shade or panting"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020159> "Behavior that serves to reduce body temperature, for instance, moving to shade or panting. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020159> "Cooling"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020159> "Cooling"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020159> <http://purl.obolibrary.org/obo/NBO_0020003>)
@@ -1475,7 +1476,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020164> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020165> (Medication)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020165> "Consumption or use of substances with presumed curative or medicinal value."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020165> "Consumption or use of substances with presumed curative or medicinal value. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020165> "Medication"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020165> "Medication"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020165> <http://purl.obolibrary.org/obo/NBO_0020021>)
@@ -1544,7 +1545,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020174> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020175> (Reduce activity)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020175> "Halting or diminution of activity to minimize detection by predator."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020175> "The act of halting or diminution of activity to minimize detection by predator. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020175> "Reduce_activity"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020175> "Reduce activity"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020175> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1579,7 +1580,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020179> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020180> (Molting-facilitating behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020180> "Replacement of old body covering with new one. May or may not involve slight changes in body size and/or structure."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020180> "Behavior associated with removal of old body covering that is replaced through prior or subsequent growth with new one; replacement may or may not involve slight changes in body size and or structure. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020180> "Molting-facilitating_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020180> "Molting-facilitating behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020180> <http://purl.obolibrary.org/obo/NBO_0020021>)
@@ -1712,7 +1713,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020198> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020199> (Feign death)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020199> "Become immobile and reduce other evidence of living state"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020199> "The act of maintaining tonic immobility and reducing other evidence of being alive in the presence of a predator. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020199> "Feign_death"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020199> "Feign death"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020199> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1740,7 +1741,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020202> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020203> (Migration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020203> "Temporally regular movement from one place to another, most commonly seasonal. "^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020203> "Temporally regular movement from one place to another, most commonly seasonal. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020203> "Migration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020203> "Migration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020203> <http://purl.obolibrary.org/obo/NBO_0020035>)
@@ -1761,7 +1762,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020205> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020206> (Refuge creation and maintenance)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020206> "Construction or modification of area or structure that provides safety from potential predators."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020206> "Construction or modification of area or structure that provides safety from potential predators. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020206> "Refuge_creation_and_maintenance"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020206> "Refuge creation and maintenance"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020206> <http://purl.obolibrary.org/obo/NBO_0020021>)
@@ -1817,7 +1818,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020213> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020214> (Respiratory ventilation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020214> "Behaviors that result in replacement of respiratory medium at relevant absorbent surfaces"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020214> "Behavior that results in replacement of respiratory medium at relevant absorbent surfaces. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020214> "Respiratory_ventilation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020214> "Respiratory ventilation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020214> <http://purl.obolibrary.org/obo/NBO_0020021>)
@@ -1852,7 +1853,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020218> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020219> (Decoy-misdirection)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020219> "Behaviors directed towards presumed predators to redirect their attention away from a location of importance to the performer"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020219> "Behavior directed towards presumed predators to redirect their attention away from a location of importance to the performer. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020219> "Decoy-misdirection"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020219> "Decoy-misdirection"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020219> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1880,7 +1881,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020222> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020223> (Inspect predator)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020223> "Conspicuous orientation towards and/or approach to detected predator"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020223> "The act of orienting conspicuously towards and-or approaching a detected predator without attacking or interacting with it. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020223> "Inspect_predator"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020223> "Inspect predator"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020223> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1929,7 +1930,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020229> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020230> (Attack predator)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020230> "Perform physically violent acts on a presumed predator"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020230> "Perform physically violent acts toward a presumed predator. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020230> "Attack_predator"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020230> "Attack predator"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020230> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -1964,7 +1965,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020234> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020235> (Sunning-basking)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020235> "Exposure of body to sunlight"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020235> "Exposure of body to sunlight, either by modification of body posture, by movement to specific areas or both. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020235> "Sunning-basking"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020235> "Sunning-basking"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020235> <http://purl.obolibrary.org/obo/NBO_0020003>)
@@ -2034,7 +2035,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020244> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020245> (Mimicry enhancement)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020245> "Behaviors, anatomical structures, or signals that imitate aposematic animals, plants, or inanimate objects that are undesirable to predators of performer"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020245> "Behavior that increases similarity of actor to aposematic animals, plants, or inanimate objects that are undesirable as food to the predators of actor. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020245> "Mimicry_enhancement"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020245> "Mimicry enhancement"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020245> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -2069,14 +2070,14 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020249> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020250> (Antipredation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020250> "Behavior which decreases an organism's probability of being predated."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020250> "Behavior that decreases an organism's probability of being preyed on. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020250> "Antipredation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020250> "Antipredation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020250> <http://purl.obolibrary.org/obo/NBO_0020035>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020251> (Promote confusion)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020251> "Erratic movements or similar behaviors that would confuse a predator."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020251> "Erratic movements or similar behaviors that would confuse a predator. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020251> "Promote_confusion"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020251> "Promote confusion"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020251> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -2195,21 +2196,21 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020267> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020268> (Flee)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020268> "Depart [from] current location of predator"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020268> "The act of departing the current location of predator, typically rapidly. [ABO:SWM}"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020268> "Flee"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020268> "Flee"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020268> <http://purl.obolibrary.org/obo/NBO_0020250>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020269> (Mobbing)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020269> "Harassment and/or attack by multiple animals of a presumed predator or intruder"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020269> "Harassment of and-or attack of a presumed predator or intruder by multiple individuals at once. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020269> "Mobbing"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020269> "Mobbing"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020269> <http://purl.obolibrary.org/obo/NBO_0020250>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020270> (Autohygiene)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020270> "Self-cleaning, rearranging of body surface coverings, and/or application of secretions or ambient materials to body surface."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020270> "Self-cleaning, rearranging of body surface coverings, application of secretions or ambient materials related functionally to maintaining the body surface. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020270> "Autohygiene"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020270> "Autohygiene"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020270> <http://purl.obolibrary.org/obo/NBO_0020021>)
@@ -2328,7 +2329,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020286> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020287> (Aposematism)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020287> "Conspicuous postures or signals (often coloration) that potential predators learn to associate with strong defense mechanisms of performer"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020287> "Conspicuous postures or signals (often involving coloration) that potential predators learn to associate with strong defense mechanisms of performer. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020287> "Aposematism"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020287> "Aposematism"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020287> <http://purl.obolibrary.org/obo/NBO_0020250>)
@@ -2342,7 +2343,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020288> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020289> (Detection notification)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020289> "Postures or signals that can communicate to predator that it has been detected by performer"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020289> "Postures or signals that can communicate to predator that it has been detected by performer. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020289> "Detection_notification"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020289> "Detection notification"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020289> <http://purl.obolibrary.org/obo/NBO_0020250>)
