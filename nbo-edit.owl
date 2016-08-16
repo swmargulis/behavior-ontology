@@ -17583,6 +17583,9 @@ owl:qualifier some &apos;temporally extended&apos;)</oboInOwl:note>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020003">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020007">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020015">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
@@ -17598,10 +17601,19 @@ owl:qualifier some &apos;temporally extended&apos;)</oboInOwl:note>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020033">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020034">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020037">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020040">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020043">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020045">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020050">
@@ -17620,13 +17632,28 @@ owl:qualifier some &apos;temporally extended&apos;)</oboInOwl:note>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020067">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020068">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020077">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020079">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020088">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020091">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020093">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020096">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020099">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020105">
@@ -17641,10 +17668,19 @@ owl:qualifier some &apos;temporally extended&apos;)</oboInOwl:note>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020112">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020137">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020139">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020141">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020142">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020144">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020145">
@@ -17656,10 +17692,19 @@ owl:qualifier some &apos;temporally extended&apos;)</oboInOwl:note>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020159">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020160">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020165">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020170">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020175">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020177">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020180">
@@ -17693,6 +17738,9 @@ owl:qualifier some &apos;temporally extended&apos;)</oboInOwl:note>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020223">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020226">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020230">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
@@ -17724,6 +17772,12 @@ owl:qualifier some &apos;temporally extended&apos;)</oboInOwl:note>
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020279">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020282">
+        <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020286">
         <obo:creation_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nov 2015</obo:creation_date>
     </rdf:Description>
     <rdf:Description rdf:about="http://purl.obolibrary.org/obo/NBO_0020287">

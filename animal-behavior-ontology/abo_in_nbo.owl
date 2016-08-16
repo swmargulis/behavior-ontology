@@ -369,7 +369,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020006> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020007> (Aiding digestion)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020007> "consumption of specific compounds that facilitate processing of food items"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020007> "Behavior associated with consumption of specific compounds that facilitate processing of food items. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020007> "Aiding_digestion"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020007> "Aiding digestion"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020007> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -560,7 +560,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020033> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020034> (Beg food)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020034> "Perform behaviors that may induce one or more other animals to share food with the performer"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020034> "Perform behaviors that may induce one or more other animals to share food with the performer. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020034> "Beg_food"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020034> "Beg food"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020034> <http://purl.obolibrary.org/obo/NBO_0020177>)
@@ -602,7 +602,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020039> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020040> (Chase prey)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020040> "Active pursuit of fleeing prey."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020040> "Active pursuit of fleeing prey. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020040> "Chase_prey"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020040> "Chase prey"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020040> <http://purl.obolibrary.org/obo/NBO_0020099>)
@@ -637,7 +637,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020044> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020045> (Flush prey)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020045> "Behaviors in which predator forces potential prey to emerge from cover."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020045> "Behavior associated with a predator forcing potential prey to emerge from cover. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020045> "Flush_prey"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020045> "Flush prey"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020045> <http://purl.obolibrary.org/obo/NBO_0020099>)
@@ -798,7 +798,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020067> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020068> (Food storage)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020068> "Caching or hoarding of food for later use and for protection from competitors, or use of specific substrates for cultivation."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020068> "Behavior associated with locating one or many food items in particular places for later use and for protection from competition. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020068> "Food_storage"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020068> "Food storage"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020068> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -938,7 +938,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020087> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020088> (Resource advertisement)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020088> "Postures or signals performed to other animals to indicate the presence, and in some cases, the location, quantity, and quality, of a resource"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020088> "Postures or signals directed at other animals to indicate the presence, and in some cases, the location, quantity, and quality, of a resource. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020088> "Resource_advertisement"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020088> "Resource advertisement"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020088> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -959,7 +959,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020090> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020091> (Suitability assessment)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020091> "Sensory assessment of a resource, (usually using olfaction or taste), for suitability of subsequent usage"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020091> "Sensory evaluation of a resource, (usually using olfaction or taste), for appropriateness of subsequent usage. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020091> "Suitability_assessment"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020091> "Suitability assessment"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020091> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -994,7 +994,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020095> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020096> (Follow trail to resource)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020096> "Locomotion to a resource guided by visual or olfactory cues created by a prior finder and/or user of that resource."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020096> "Locomotion to a food resource guided by visual or olfactory cues created along a route by a prior finder and-or user of that resource. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020096> "Follow_trail_to_resource"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020096> "Follow trail to resource"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020096> <http://purl.obolibrary.org/obo/NBO_0020188>)
@@ -1015,7 +1015,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020098> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020099> (Capturing)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020099> "Suite of behaviors involved in securing a prey item once it has been located."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020099> "Suite of behaviors involved in securing a prey item once it has been located. [ABO:SWM}"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020099> "Capturing"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020099> "Capturing"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020099> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -1280,7 +1280,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020136> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020137> (Construct capture device)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020137> "Building of a trap, web, net, or other structure to help ensnare potential food items"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020137> "Building of a trap, web, net, or other structure to help ensnare potential food items. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020137> "Construct_capture_device"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020137> "Construct capture device"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020137> <http://purl.obolibrary.org/obo/NBO_0020099>)
@@ -1315,7 +1315,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020141> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020142> (Dealing with toxins)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020142> "The identification, avoidance, or neutralization of toxic substances in food."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020142> "Behaviors associated with the processes of identification, avoidance, or neutralization of toxic substances in food. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020142> "Dealing_with_toxins"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020142> "Dealing with toxins"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020142> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -1329,7 +1329,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020143> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020144> (Recovery from cache)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020144> "Removal of food resource from previously-stored supply of food."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020144> "The act of removing a food resource from a location where it was previously stored or from previously-stored supply of food. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020144> "Recovery_from_cache"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020144> "Recovery from cache"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020144> <http://purl.obolibrary.org/obo/NBO_0020188>)
@@ -1441,7 +1441,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020159> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020160> (Stalk prey)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020160> "Approach to prey in manner designed to avoid early detection by prey"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020160> "Behavior of approaching prey in manner designed to avoid early detection by prey. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020160> "Stalk_prey"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020160> "Stalk prey"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020160> <http://purl.obolibrary.org/obo/NBO_0020099>)
@@ -1510,7 +1510,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020169> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020170> (Food exposure)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020170> "Behaviors that reveal a hidden food resource, such as digging, cracking, or breaking."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020170> "Behavior that functions to reveal a hidden food resource, such as digging, cracking, or breaking. [ABO:SWM}"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020170> "Food_exposure"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020170> "Food exposure"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020170> <http://purl.obolibrary.org/obo/NBO_0020188>)
@@ -1531,7 +1531,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020172> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020173> (Share food)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020173> "Behaviors in which animals solicit or allow other animals to utilize a resource they currently control"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020173> "Behavior in which animals allow other animals to utilize a resource they currently control. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020173> "Share_food"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020173> "Share food"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020173> <http://purl.obolibrary.org/obo/NBO_0020177>)
@@ -1559,7 +1559,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020176> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020177> (Social acquisition of food)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020177> "Obtaining food that has been procured by other conspecifics or heterospecifics."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020177> "Behaviors associated with obtaining food that has been procured by other conspecifics or heterospecifics. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020177> "Social_acquisition_of_food"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020177> "Social acquisition of food"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020177> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -1636,7 +1636,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020187> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020188> (Nutrient locating)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020188> "Movement directed to the detection of new resources"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020188> "Behaviors associated with  the detection of new food resources. [ABO:SWM}"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020188> "Nutrient_locating"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020188> "Nutrient locating"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020188> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -1902,7 +1902,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020225> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020226> (Capture prey)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020226> "Behaviors that result in ending flight of prey with successful predation."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020226> "Behavior that result in ending flight of prey with successful predation. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020226> "Capture_prey"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020226> "Capture prey"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020226> <http://purl.obolibrary.org/obo/NBO_0020099>)
@@ -2140,7 +2140,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020259> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020260> (Processing)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020260> "Behaviors that prepare food for consumption, such as nut-cracking or peeling"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020260> "Behaviors that prepare food for consumption, such as nut-cracking or peeling. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020260> "Processing"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020260> "Processing"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020260> <http://purl.obolibrary.org/obo/NBO_0020282>)
@@ -2294,7 +2294,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020281> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020282> (Nutrient acquisition)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020282> "Behaviors related to acquisition and utilization of external resources."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020282> "Behavior related to acquisition and utilization of external food resources. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020282> "Nutrient_acquisition"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020282> "Nutrient acquisition"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020282> <http://purl.obolibrary.org/obo/NBO_0020035>)
@@ -2322,7 +2322,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020285> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020286> (Food extraction)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020286> "Removal of food items from location by use of appendage or tool."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020286> "Removal of food items from location by use of appendage or tool. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020286> "Food_extraction"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020286> "Food extraction"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020286> <http://purl.obolibrary.org/obo/NBO_0020282>)
