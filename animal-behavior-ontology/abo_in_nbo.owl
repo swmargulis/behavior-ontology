@@ -415,7 +415,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020012> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020013> (Dominance status declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020013> "Signal or behavior that reveals the social dominance status of the individual"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020013> "Signal or behavior that reveals the social dominance status of the individual. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020013> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020013> "Dominance_status_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020013> "Dominance status declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020013> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -483,7 +484,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020021> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020022> (Bond status declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020022> "Signal or  behaviors that reveal to receivers the state of the individual's social relationship with anothe"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020022> "Signal or behavior that reveals to receivers the state of the individual's social relationship with another. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020022> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020022> "Bond_status_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020022> "Bond status declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020022> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -604,7 +606,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020038> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020039> (Transport solicitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020039> "Behavior offering to transport others or requesting such transportation"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020039> "Behavior offering to transport others or requesting such transportation. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020039> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020039> "Transport_solicitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020039> "Transport solicitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020039> <http://purl.obolibrary.org/obo/NBO_0020041>)
@@ -655,7 +658,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020045> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020046> (Age declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020046> "signals or postures that reveal the age of the actor"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020046> "A signal or posture that reveal the age of the actor. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020046> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020046> "Age_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020046> "Age declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020046> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -912,7 +916,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020080> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020081> (Identity declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020081> "Signal or behavior that reveals individual indentity "^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020081> "Signal or behavior that reveals individual indentity. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020081> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020081> "Identity_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020081> "Identity declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020081> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -1178,7 +1183,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020117> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020118> (Sex declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020118> "Signal or behavior that reveals signaller's sex"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020118> "Signal or behavior that reveals signaller's sex. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020118> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020118> "Sex_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020118> "Sex declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020118> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -1454,7 +1460,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020155> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020156> (Thermoregulation solicitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020156> "Behavior soliciting or offering help in thermoregulation"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020156> "Behavior inviting another to provide or receive thermoregulatory assistance. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020156> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020156> "Thermoregulation_solicitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020156> "Thermoregulation solicitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020156> <http://purl.obolibrary.org/obo/NBO_0020041>)
@@ -1469,7 +1476,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020157> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020158> (Protection solicitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020158> "Behavior inviting another to be protected or to provide protection"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020158> "Behavior inviting another to be protected or to provide protection. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020158> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020158> "Protection_solicitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020158> "Protection solicitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020158> <http://purl.obolibrary.org/obo/NBO_0020041>)
@@ -1546,7 +1554,8 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020168> "Beh
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020169> (Joining solicitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020169> "Behavior that invites melding of multiple parties"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020169> "Behavior that invites one or more other individuals to act as a group or to allow signaller to become part of a group. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020169> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020169> "Joining_solicitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020169> "Joining solicitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020169> <http://purl.obolibrary.org/obo/NBO_0020041>)
@@ -1567,7 +1576,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020171> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020172> (Territorial status declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020172> "Signal or behavior that reveals whether or not the signaller holds a territory"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020172> "Signal or behavior that reveals whether or not the signaller holds a territory. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020172> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020172> "Territorial_status_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020172> "Territorial status declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020172> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -1816,7 +1826,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020206> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020207> (Group membership declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020207> "Signal or behavior that reveals that the signaller is belongs to a social group"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020207> "Signal or behavior that reveals that the signaller is belongs to a social group. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020207> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020207> "Group_membership_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020207> "Group membership declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020207> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -1845,7 +1856,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020210> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020211> (Feeding solicitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020211> "Behavior by one animal requesting that it be fed, or by one animal offering to feed"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020211> "Behavior by one animal that signals that it wants to be fed, or by one animal offering to feed or share food. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020211> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020211> "Feeding_solicitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020211> "Feeding solicitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020211> <http://purl.obolibrary.org/obo/NBO_0020041>)
@@ -1947,7 +1959,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020224> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020225> (Location declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020225> "Signal or behavior that reveals signaller's current location"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020225> "Signal or behavior that reveals signaller's current location. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020225> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020225> "Location_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020225> "Location declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020225> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -2026,7 +2039,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020235> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020236> (Arrival-departure declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020236> "Behavior that mediates the process of joining a group or leaving one"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020236> "Behavior that mediates the process of joining a group or leaving one. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020236> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020236> "Arrival-departure_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020236> "Arrival-departure declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020236> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -2098,7 +2112,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020245> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020246> (Reproductive condition declaration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020246> "Signal or behavior that reveals signaller's current reproductive condition"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020246> "Signal or behavior that reveals signaller's current reproductive condition. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020246> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020246> "Reproductive_condition_declaration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020246> "Reproductive condition declaration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020246> <http://purl.obolibrary.org/obo/NBO_0020274>)
@@ -2207,7 +2222,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020260> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020261> (Grooming-preening solicitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020261> "Behavior that is an invitation to groom or be groomed"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020261> "Behavior that invites or signals another to groom or be groomed. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020261> "Grooming-preening_solicitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020261> "Grooming-preening solicitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020261> <http://purl.obolibrary.org/obo/NBO_0020041>)
