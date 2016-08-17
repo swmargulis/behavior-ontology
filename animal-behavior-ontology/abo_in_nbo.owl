@@ -320,7 +320,8 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/IAO_0000115> "def
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020000> (Nest egg sac creation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020000> "Building of nests or burrows for reproduction"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020000> "Building of nest, burrow or safe container for offspring (eggs or young). [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020000> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020000> "Nest_egg_sac_creation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020000> "Nest egg sac creation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020000> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -376,7 +377,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020007> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020008> (Feeding young)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020008> "Provision of food, water, or other nutrients to offspring"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020008> "Behavior associated with provision of food, water, or other nutrients to offspring. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020008> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020008> "Feeding_young"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020008> "Feeding young"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020008> <http://purl.obolibrary.org/obo/NBO_0020181>)
@@ -390,21 +392,23 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020009> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020010> (Reproductive status assessment)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020010> "Assessment of cues and signals from encountered individual to determine reproductive condition"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020010> "Behaviors associated with assessment of cues and signals from an encountered individual to determine its reproductive condition. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020010> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020010> "Reproductive_status_assessment"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020010> "Reproductive status assessment"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020010> <http://purl.obolibrary.org/obo/NBO_0020129>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020011> (Offspring instruction behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020011> "Any behavior whose function is designed to accelerate learning of necessary behaviors by offspring"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020011> "Any behavior apparently designed to accelerate learning of necessary behaviors by offspring without other direct benefits to actor-parent. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020011> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020011> "Offspring_instruction_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020011> "Offspring instruction behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020011> <http://purl.obolibrary.org/obo/NBO_0020181>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020012> (Hygiene)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020012> "In this context, cleaning of offspring bodies, removal of ectoparasites, or removal of wastes from vicinity of offspring"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020012> "Behavior associated with cleaning of offspring (eggs, young), removal of ectoparasites, or removal of wastes from vicinity of offspring. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020012> "Hygiene"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020012> "Hygiene"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020012> <http://purl.obolibrary.org/obo/NBO_0020181>)
@@ -418,7 +422,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020013> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020014> (Courtship)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020014> "Display, feeding, and other activities used to persuade or induce an encountered individual to mate with the animal performing the behavior. Broadly encompasses precopulatory, pair-forming and pair-bonding behaviors (Barrows)"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020014> "Display, feeding, and other activities used to persuade or induce an encountered individual to mate with the animal performing the behavior. Broadly encompasses precopulatory, pair-forming and pair-bonding behaviors.  [Barrows ISBN-10: 1439836515]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020014> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020014> "Courtship"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020014> "Courtship"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020014> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -432,14 +437,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020015> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020016> (Creching behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020016> "Pooling of offspring from different parents"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020016> "Behavior associated with pooling of multiple unrelated offspring by their different parents. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020016> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020016> "Creching_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020016> "Creching behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020016> <http://purl.obolibrary.org/obo/NBO_0020125>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020017> (Sperm competition behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020017> "Any behavior by a male or his gametes that increases the probability that eggs will be fertilized by his own sperm."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020017> "Any behavior by a male or his gametes that increases the probability that eggs will be fertilized by his own sperm. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020017> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020017> "Sperm_competition_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020017> "Sperm competition behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020017> <http://purl.obolibrary.org/obo/NBO_0020051>)
@@ -483,7 +490,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020022> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020023> (Broadcast advertisement)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020023> "Signal or behavior that reveals presence of the signaller directed to multiple receivers and not limited to particular receivers"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020023> "Signal or behavior that reveals presence of the signaller and is directed to multiple receivers rather than limited to particular receivers. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020023> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020023> "Broadcast_advertisement"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020023> "Broadcast advertisement"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020023> <http://purl.obolibrary.org/obo/NBO_0020284>)
@@ -588,7 +596,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020037> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020038> (Group activation-modulation behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020038> "Behaviors that indicate intention of one or more members of a social aggregation to change activity states"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020038> "Behavior that indicates intention of one or more members of a social aggregation to change activity states. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020038> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020038> "Group_activation-modulation_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020038> "Group activation-modulation behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020038> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -609,14 +618,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020040> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020041> (Solicitation-invitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020041> "Behavior that indicates approval by one animal of another animal beginning some new activity or state"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020041> "Behavior that indicates approval or acceptance by one animal of another animal beginning some new activity or state. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020041> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020041> "Solicitation-invitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020041> "Solicitation-invitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020041> <http://purl.obolibrary.org/obo/NBO_0020120>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020042> (Patrolling behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020042> "Regular visits by territorial resident of multiple points within the area or along the perimeter of their territory"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020042> "Regular visits by territorial resident of multiple points within the area or along the perimeter of their territory. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020042> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020042> "Patrolling_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020042> "Patrolling behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020042> <http://purl.obolibrary.org/obo/NBO_0020124>)
@@ -651,14 +662,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020046> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020047> (Insert Genital Plug)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020047> ""^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020047> "Behavior associated with deposition of material by male following ejaculation to block access to female's reproductive tract during her future matings. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020047> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020047> "Insert_Genital_Plug"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020047> "Insert Genital Plug"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020047> <http://purl.obolibrary.org/obo/NBO_0020283>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020048> (Facilitate oviposition)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020048> "Deposition of eggs either into the medium, or onto a substrate"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020048> "Deposition of eggs either into the medium, or onto a substrate. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020048> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020048> "Facilitate_oviposition"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020048> "Facilitate oviposition"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020048> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -679,7 +692,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020050> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020051> (Postcopulatory function)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020051> "Behaviors such as self-hygiene or display following a copulation"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020051> "Behavior such as self-hygiene or display following a copulation. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020051> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020051> "Postcopulatory_function"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020051> "Postcopulatory function"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020051> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -693,14 +707,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020052> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020053> (Nest relief)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020053> "Behaviors that broker replacement of one nest attendant by another"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020053> "The act of taking over activities involved in the care of eggs or offspring, as one nest attendant replaces another. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020053> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020053> "Nest_relief"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020053> "Nest relief"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020053> <http://purl.obolibrary.org/obo/NBO_0020157>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020054> (Mate guarding)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020054> "One member of a recently mating pair prevents the other from subsequent matings with other individuals"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020054> "Behavior of one member of a recently mating pair, associated with preventing its mate from engaging in subsequent matings with other individuals than the current mate. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020054> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020054> "Mate_guarding"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020054> "Mate guarding"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020054> <http://purl.obolibrary.org/obo/NBO_0020051>)
@@ -749,7 +765,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020060> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020061> (Play)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020061> "A very broad category including the partial or complete performance of adult functional behaviors in non-functional contexts, as well as interactive behaviors peculiar to immature animals."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020061> "A very broad category including the partial or complete performance of adult functional behaviors in non-functional contexts, as well as interactive behaviors peculiar to immature animals. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020061> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020061> "Play"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020061> "Play"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020061> <http://purl.obolibrary.org/obo/NBO_0020168>)
@@ -777,14 +794,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020064> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020065> (Greeting behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020065> "Behaviors used to acknowledge the presence of one animal or group to another animal or group"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020065> "Behavior exhibited by a third party not currently involved in an agonistic interaction that limits the abilities of others to continue the interaction. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020065> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020065> "Greeting_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020065> "Greeting behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020065> <http://purl.obolibrary.org/obo/NBO_0020120>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020066> (Gamete release function)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020066> "Facilitating release or transfer of gametes"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020066> "Behavior that facilitates gamete release or transfer of gametes. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020066> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020066> "Gamete_release_function"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020066> "Gamete release function"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020066> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -812,21 +831,24 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020069> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020070> (Intrusion alarm behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020070> "Alarm signal given by territorial residents upon discovery of an intruder"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020070> "Signal given by territorial residents upon discovery of an intruder. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020070> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020070> "Intrusion_alarm_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020070> "Intrusion alarm behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020070> <http://purl.obolibrary.org/obo/NBO_0020124>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020071> (Pair affirmation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020071> "displays or other behaviors performed by pairs in longer term pair bonds to advertise relationship to each other and to other animals nearby"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020071> "Displays or other behaviors performed by pairs in longer term pair bonds to advertise relationship to each other and to other animals nearby. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020071> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020071> "Pair_affirmation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020071> "Pair affirmation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020071> <http://purl.obolibrary.org/obo/NBO_0020051>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020072> (Owner advertisement behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020072> "Territory resident signals or occupies location to advertise their presence (includes marking)"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020072> "Behavior of territory resident that signals its presence, including occupying a location where its presence is easily detected and marking of boundaries. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020072> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020072> "Owner_advertisement_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020072> "Owner advertisement behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020072> <http://purl.obolibrary.org/obo/NBO_0020124>)
@@ -882,7 +904,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020079> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020080> (Hatching/birth facilitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020080> ""^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020080> "Behavior that expedites or aids in the birth or hatching process. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020080> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020080> "Hatching_birth_facilitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020080> "Hatching/birth facilitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020080> <http://purl.obolibrary.org/obo/NBO_0020181>)
@@ -896,7 +919,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020081> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020082> (Rejection)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020082> "Rejection of courtship or solicitation behaviors by avoidance, retreat, or other active repulsion of suitor."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020082> "Behavior associated with refusing courtship or solicitation behaviors by avoidance, retreat, or other active repulsion of suitor. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020082> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020082> "Rejection"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020082> "Rejection"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020082> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -910,7 +934,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020083> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020084> (Mate finding)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020084> "Active search for possible mates"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020084> "Behavior invoved in the active search for possible mates. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020084> "Mate_finding"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020084> "Mate finding"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020084> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -952,7 +976,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020089> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020090> (Reconciliation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020090> "facilitating the restoration of normal interactions between parties that recently engaged in a conflict"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020090> "Behavior that facilitates the restoration of normal interactions between parties that recently engaged in a conflict. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020090> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020090> "Reconciliation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020090> "Reconciliation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020090> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -1008,7 +1033,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020097> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020098> (Courtship begging)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020098> "Behavior by one animals soliciting food provision by a potential mate"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020098> "Solicitation of food provisioning by a potential mate. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020098> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020098> "Courtship_begging"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020098> "Courtship begging"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020098> <http://purl.obolibrary.org/obo/NBO_0020014>)
@@ -1029,14 +1055,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020100> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020101> (Sexual cannibalism)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020101> "Consumption of one member of a mating pair, usually the male, usually after the mating"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020101> "Performance of a behavior that indicates the performer's willingness to mate or bond. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020101> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020101> "Sexual_cannibalism"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020101> "Sexual cannibalism"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020101> <http://purl.obolibrary.org/obo/NBO_0020014>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020102> (Mouth brooding)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020102> "Process of retaining developing eggs in the mouth cavity"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020102> "Behavior of taking recently-hatched fry into mouth of parent in response to danger (in mouth-brooding organisms). [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020102> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020102> "Mouth_brooding"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020102> "Mouth brooding"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020102> <http://purl.obolibrary.org/obo/NBO_0020125>)
@@ -1085,7 +1113,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020108> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020109> (Sperm scraping)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020109> "use of specialized male organs to remove sperm already deposited in female's reproductive tract."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020109> "Behavior associated with the use of specialized male organs to remove sperm already deposited in female's reproductive tract. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020109> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020109> "Sperm_scraping"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020109> "Sperm scraping"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020109> <http://purl.obolibrary.org/obo/NBO_0020283>)
@@ -1112,7 +1141,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020112> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020113> (Microclimate regulation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020113> "Behaviors designed to regulate the microclimate around offspring"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020113> "Behavior designed to regulate the microclimate around offspring. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020113> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020113> "Microclimate_regulation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020113> "Microclimate regulation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020113> <http://purl.obolibrary.org/obo/NBO_0020181>)
@@ -1133,7 +1163,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020115> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020116> (Retrieval)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020116> "Return of offspring to preferred site such as a nest or behavior that decreases proximity between parent and young"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020116> "Behavior associated with returning offspring to a preferred site such as a nest or nearer the parent. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020116> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020116> "Retrieval"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020116> "Retrieval"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020116> <http://purl.obolibrary.org/obo/NBO_0020125>)
@@ -1154,21 +1185,24 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020118> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020119> (Tool preparation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020119> "The modification of object for use to facilitate acquisition of food or other task"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020119> "The modification of object for use to facilitate acquisition of food or other task. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020119> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020119> "Tool_preparation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020119> "Tool preparation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020119> <http://purl.obolibrary.org/obo/NBO_0020168>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020120> (Social integration)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020120> "Behavior related to social interactions among animals outside of reproduction, conflict, and resource acquisition"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020120> "Behavior related to social interactions among animals outside of reproduction, conflict, and resource acquisition. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020120> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020120> "Social_integration"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020120> "Social integration"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020120> <http://purl.obolibrary.org/obo/NBO_0020035>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020121> (Insemination-copulation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020121> "Insertion of sperm not in a spermatophore into female body"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020121> "Male's insertion of sperm-transfer organ into the body of the female. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020121> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020121> "Insemination-copulation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020121> "Insemination-copulation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020121> <http://purl.obolibrary.org/obo/NBO_0020066>)
@@ -1189,21 +1223,23 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020123> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020124> (Territoriality)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020124> "Behavior occurring in the context of animals attempting to maintain or gain control over a spatial area."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020124> "Behavior occurring in the context of animals attempting to maintain or gain control over a spatial area. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020124> "Territoriality"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020124> "Territoriality"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020124> <http://purl.obolibrary.org/obo/NBO_0020035>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020125> (Protection of offspring)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020125> "Guarding & defense of young"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020125> "Guarding and defense of young . [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020125> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020125> "Protection_of_offspring"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020125> "Protection of offspring"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020125> <http://purl.obolibrary.org/obo/NBO_0020181>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020126> (Movement coordination behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020126> "Behaviors that facilitate coordinated movements by multiple animals"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020126> "Behavior that facilitates functionally synchronized movements by multiple animals. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020126> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020126> "Movement_coordination_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020126> "Movement coordination behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020126> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -1224,7 +1260,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020128> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020129> (Mate choosing)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020129> "behaviors associated with preference and selection of member of the opposite sex for mating"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020129> "Behaviors associated with selecting of a member of the opposite sex for mating. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020129> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020129> "Mate_choosing"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020129> "Mate choosing"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020129> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -1245,7 +1282,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020131> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020132> (Emission of signal)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020132> ""^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020132> "Behavior of sender in a communicative interaction. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020132> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020132> "Emission_of_signal"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020132> "Emission of signal"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020132> <http://purl.obolibrary.org/obo/NBO_0020187>)
@@ -1259,7 +1297,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020133> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020134> (Parasiticide provision)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020134> "Provision of plants or other agents from the local environment that kill or in otherways inhibit parasites in offspring"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020134> "Behavior associated with bringing to a nest or offspring, plants or other agents from the local environment that kill or in other ways inhibit parasites in offspring. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020134> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020134> "Parasiticide_provision"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020134> "Parasiticide provision"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020134> <http://purl.obolibrary.org/obo/NBO_0020125>)
@@ -1301,7 +1340,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020139> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020140> (Intruder advertisement behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020140> "non-resident intruder signals its presence in another's territory"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020140> "Behavior of a non-resident intruder that signals its presence in another's territory. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020140> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020140> "Intruder_advertisement_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020140> "Intruder advertisement behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020140> <http://purl.obolibrary.org/obo/NBO_0020124>)
@@ -1371,7 +1411,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020149> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020150> (Nest relocation behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020150> "Movement of adults and young (if present) to a new nest site. Young may be transported by parents."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020150> "Behavior associated with establishing a new alternate nest site, including transport of young by parents to a new site. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020150> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020150> "Nest_relocation_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020150> "Nest relocation behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020150> <http://purl.obolibrary.org/obo/NBO_0020125>)
@@ -1420,7 +1461,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020156> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020157> (Reproduction)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020157> "Usual function directly related to the production of offspring."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020157> "Behavior directly related to the production of offspring. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020157> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020157> "Reproduction"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020157> "Reproduction"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020157> <http://purl.obolibrary.org/obo/NBO_0020035>)
@@ -1462,7 +1504,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020162> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020163> (Offspring expulsion)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020163> "Harassment or other behaviors that serve to evict recent offspring from parental group, territory, nest, or other prior residence of offspring"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020163> "Harassment or other behavior that serves to evict recent offspring from parental group, territory, nest, or other prior residence of offspring. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020163> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020163> "Offspring_expulsion"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020163> "Offspring expulsion"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020163> <http://purl.obolibrary.org/obo/NBO_0020181>)
@@ -1538,7 +1581,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020173> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020174> (Spawning)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020174> "Release of gametes one or both sexes into the ambient medium"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020174> "Release of gametes of one or both sexes into the ambient medium. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020174> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020174> "Spawning"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020174> "Spawning"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020174> <http://purl.obolibrary.org/obo/NBO_0020066>)
@@ -1587,7 +1631,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020180> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020181> (Offspring care)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020181> "Behaviors associated with protection, growth and development of offspring."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020181> "Behavior associated with protection, or assisting growth and development of offspring. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020181> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020181> "Offspring_care"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020181> "Offspring care"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020181> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -1629,7 +1674,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020186> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020187> (Signal exchange)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020187> "Behavior that conveys information from one individual to another, whether or not it serves other functions as well (Wilson); communication"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020187> "Behavior that has evolved to convey information from one individual to another, whether or not it serves other functions as well; communication. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020187> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020187> "Signal_exchange"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020187> "Signal exchange"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020187> <http://purl.obolibrary.org/obo/NBO_0020168>)
@@ -1748,7 +1794,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020203> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020204> (Mating amplexus)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020204> "Spawning in which male and female are clasped or attached to ensure close proximity of released gametes"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020204> "The clasping of the female by a male, before and-or during the release of gametes, and ensuring close proximity of released gametes. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020204> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020204> "Mating_amplexus"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020204> "Mating amplexus"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020204> <http://purl.obolibrary.org/obo/NBO_0020066>)
@@ -1783,7 +1830,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020208> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020209> (Social play)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020209> "interactive behavior involving 2 or more conspecifics and consisting of, but not limited to, cooperative, nonagonistic activity (Fagen)."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020209> "Play involving 2 or more conspecifics that are actively interacting. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020209> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020209> "Social_play"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020209> "Social play"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020209> <http://purl.obolibrary.org/obo/NBO_0020061>)
@@ -1804,7 +1852,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020211> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020212> (Aiding)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020212> "behavior that provides direct help or assistance to another (presumably without any immediate benefit to the actor?)"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020212> "behavior that provides direct help or assistance to another. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020212> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020212> "Aiding"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020212> "Aiding"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020212> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -1832,14 +1881,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020215> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020216> (Humidity regulation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020216> "Behaviors that serve to regulate the humidity around offspring"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020216> "Behavior that serves to regulate the humidity around offspring. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020216> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020216> "Humidity_regulation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020216> "Humidity regulation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020216> <http://purl.obolibrary.org/obo/NBO_0020113>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020217> (Reception of signal)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020217> ""^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020217> "Behavior associated with attempting to receive or receiving a signal from another. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020217> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020217> "Reception_of_signal"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020217> "Reception of signal"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020217> <http://purl.obolibrary.org/obo/NBO_0020187>)
@@ -1874,7 +1925,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020221> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020222> (Recruitment)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020222> "behaviors inviting other animals to join a group or requesting other animals to let the signaler join them"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020222> "Behavior that serves to invite other animals to join a group. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020222> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020222> "Recruitment"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020222> "Recruitment"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020222> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -1921,11 +1973,12 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://pu
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020228> "Swim"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020228> <http://purl.obolibrary.org/obo/NBO_0020095>)
 
-# Class: <http://purl.obolibrary.org/obo/NBO_0020229> (Motor development play)
+# Class: <http://purl.obolibrary.org/obo/NBO_0020229> (Motor play)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020229> ""^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020229> "Undirected behavior involving exercise and coordination, and often associated with repetition and 'practice' of adult behavior patterns in a non-functional context. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020229> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020229> "Motor_development_play"^^xsd:string)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020229> "Motor development play"^^xsd:string)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020229> "Motor play"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020229> <http://purl.obolibrary.org/obo/NBO_0020061>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020230> (Attack predator)
@@ -1937,7 +1990,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020230> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020231> (Weaning behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020231> "Behaviors that restrict access to or reduce demand by offspring for provisioning by parent"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020231> "Behavior that restricts access to or reduces demand by offspring for provisioning by parent [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020231> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020231> "Weaning_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020231> "Weaning behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020231> <http://purl.obolibrary.org/obo/NBO_0020181>)
@@ -2007,14 +2061,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020240> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020241> (Mating solicitation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020241> "Performance of a behavior that indicates the performer's willingness to mate or bond"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020241> "Performance of a behavior that indicates the performer's willingness to mate or bond. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020241> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020241> "Mating_solicitation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020241> "Mating solicitation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020241> <http://purl.obolibrary.org/obo/NBO_0020014>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020242> (Build display structure)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020242> "Creation of  or modification of a structure or area that is used in attraction of mates"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020242> "Creation of or modification of a structure or area that is used in attraction of mates. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020242> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020242> "Build_display_structure"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020242> "Build display structure"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020242> <http://purl.obolibrary.org/obo/NBO_0020284>)
@@ -2063,7 +2119,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020248> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020249> (Allohygiene behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020249> "Cleaning, parasite removal, surface covering adjustment, addition of conditioners to body surface, or other hygienic activities by one animal on another"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020249> "Behavior by one animal to another than contributes to cleaning, parasite removal, surface covering adjustment, addition of conditioners to body surface, or other hygienic benefits to the receiver. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020249> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020249> "Allohygiene_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020249> "Allohygiene behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020249> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -2091,14 +2148,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020252> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020253> (Mating appeasement)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020253> "Behavior that serves to demonstrate non-aggressive intent by one member of a courting or potentially mating pair to the other."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020253> "Behavior that serves to demonstrate non-aggressive intent by one member of a courting or potentially mating pair to the other. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020253> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020253> "Mating_appeasement"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020253> "Mating appeasement"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020253> <http://purl.obolibrary.org/obo/NBO_0020014>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020254> (Sexual harassment)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020254> "Any of several behaviors directed towards one animal unwilling to mate by another eager to do so"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020254> "Any of several behaviors directed towards one animal unwilling to mate by another attempting to do so. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020254> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020254> "Sexual_harassment"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020254> "Sexual harassment"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020254> <http://purl.obolibrary.org/obo/NBO_0020157>)
@@ -2126,7 +2185,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020257> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020258> (Norm maintenance)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020258> "reflects an animal's discomfort about the violation of some accepted norm or precept governing their social interactions"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020258> "Behavior that reflects an animal's discomfort about the violation of some accepted norm or precept governing their social interactions. Includes behaviors such as punishment that stem from violation of some accepted social rule. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020258> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020258> "Norm_maintenance"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020258> "Norm maintenance"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020258> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -2154,7 +2214,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020261> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020262> (Spatial adjustment)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020262> "Behaviors that adjust relative proximity within a group of animals or between groups of animals"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020262> "Behavior that adjusts relative proximity within a group of animals or between groups of animals. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020262> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020262> "Spatial_adjustment"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020262> "Spatial adjustment"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020262> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -2168,7 +2229,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020263> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020264> (Courtship feeding)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020264> "provision of food to a potential mate"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020264> "Provisioning of food to a potential mate. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020264> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020264> "Courtship_feeding"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020264> "Courtship feeding"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020264> <http://purl.obolibrary.org/obo/NBO_0020014>)
@@ -2182,14 +2244,16 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020265> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020266> (Spermatophore deposition)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020266> "Deposition of spermatophore either on substrate or in body of female"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020266> "Behavior involved in the deposition of spermatophore either on substrate or in body of female. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020266> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020266> "Spermatophore_deposition"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020266> "Spermatophore deposition"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020266> <http://purl.obolibrary.org/obo/NBO_0020066>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020267> (Thermoregulation)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020267> "Behaviors that serve to regulate the temperature around offspring"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020267> "Behavior that serves to regulate the temperature around offspring. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020267> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020267> "Thermoregulation"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020267> "Thermoregulation"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020267> <http://purl.obolibrary.org/obo/NBO_0020113>)
@@ -2224,28 +2288,31 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020271> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020272> (Hunt for mate)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020272> "active searching of potential mate"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020272> "Behavior involved in the active searching for potential mate. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020272> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020272> "Hunt_for_mate"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020272> "Hunt for mate"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020272> <http://purl.obolibrary.org/obo/NBO_0020084>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020273> (Breeding site selection)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020273> "Actions resulting in establishment or use of one locale for reproductive activity"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020273> "Action resulting in establishment or use of one locale for reproductive activity. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020273> "Nov 2016"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020273> "Breeding_site_selection"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020273> "Breeding site selection"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020273> <http://purl.obolibrary.org/obo/NBO_0020157>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020274> (Self-declaration behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020274> "A signal or posture that broadcasts presence and often identity of signaler"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020274> "A signal or posture that broadcasts presence and often identity of signaler. [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020274> "Self-declaration_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020274> "Self-declaration behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020274> <http://purl.obolibrary.org/obo/NBO_0020120>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020275> (Bonding)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020275> "behavior that establishes, advertises or maintains a relationship (Barrows)"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020275> "behavior that establishes, advertises or maintains a positive individual relationship to another animal. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020275> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020275> "Bonding"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020275> "Bonding"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020275> <http://purl.obolibrary.org/obo/NBO_0020120>)
@@ -2287,7 +2354,8 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020280> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020281> (Mate sampling)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020281> "General category of behaviors including sampling of medium to detect presence of possible mates, and sampling of encountered individuals to determine mate suitability"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020281> "Behavior associated with gaining information on presence, availability and suitability of potential mates,  including sensory evaluation of medium to detect presence of possible mates as well as interactions with encountered individuals specifically to determine mate suitability. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020281> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020281> "Mate_sampling"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020281> "Mate sampling"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020281> <http://purl.obolibrary.org/obo/NBO_0020129>)
@@ -2301,21 +2369,23 @@ SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020282> <http://purl.obolibrary.
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020283> (Interference)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020283> "Usually interference by members of one sex in the completion of courtship or mating activities by one or more members of the same sex"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020283> "Behavior by members of one sex that disrupt or inhibit the completion of courtship or mating activities by one or more members of the same sex. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020283> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020283> "Interference"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020283> "Interference"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020283> <http://purl.obolibrary.org/obo/NBO_0020157>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020284> (Mate attraction behavior)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020284> "to advertise availability, quality, condition, or some other property related to breeding."^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020284> "Advertisement of availability, quality, condition, or some other property related to breeding. [ABO:SWM]"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/creation_date> <http://purl.obolibrary.org/obo/NBO_0020284> "Nov 2015"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020284> "Mate_attraction_behavior"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020284> "Mate attraction behavior"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020284> <http://purl.obolibrary.org/obo/NBO_0020084>)
 
 # Class: <http://purl.obolibrary.org/obo/NBO_0020285> (Parental solicitation by young)
 
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020285> "Signals or postures by offspring to secure attention of parent(s)"^^xsd:string)
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/NBO_0020285> "Signals or postures by offspring to secure attention of parent(s). [ABO:SWM]"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/hasAlternativeId> <http://purl.obolibrary.org/obo/NBO_0020285> "Parental_solicitation_by_young"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/NBO_0020285> "Parental solicitation by young"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/NBO_0020285> <http://purl.obolibrary.org/obo/NBO_0020181>)
